@@ -1,16 +1,35 @@
-## Hi there 👋
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Oswin</h1>
+<h3 align="center">Backend Developer • Frappe Developer </h3>
 
-<!--
-**Oswin-san/Oswin-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Building+real-world+systems;PEPPOL+%7C+ERP+Integrations;Backend+%26+Infrastructure;Always+Debugging+%F0%9F%94%A7" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Oswin-san&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tech Stack
+
+<p align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,js,java,cs" />
+
+### Backend & Tools
+<img src="https://skillicons.dev/icons?i=linux,git,mysql,docker" />
+
+</p>
+
+---
+
+## 🧩 What I Do
+
+```text
+📄 PEPPOL & eDelivery Integrations
+🏢 ERP Systems & Financial Platforms
+🧾 XML Validation Pipelines
+☁️ Server Deployment & Debugging
+🔧 Production Issue Hunting
