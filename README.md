@@ -1,35 +1,34 @@
-<!-- HEADER -->
+<!-- ================= HEADER ================= -->
+
 <h1 align="center">Hi 👋, I'm Oswin</h1>
-<h3 align="center">Backend Developer • Frappe Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Building+real-world+systems;PEPPOL+%7C+ERP+Integrations;Backend+%26+Infrastructure;Always+Debugging+%F0%9F%94%A7" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Backend+Developer;Integration+Engineer;PEPPOL+%7C+ERP+Systems;I+Debug+Things+In+Production+%F0%9F%94%A7" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Oswin-san&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Oswin-san&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 </p>
+
 ---
+
+<!-- ================= TECH STACK ================= -->
 
 ## ⚡ Tech Stack
 
 <p align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=python,js,java,cs" />
-
-### Backend & Tools
-<img src="https://skillicons.dev/icons?i=linux,git,mysql,docker" />
-
+  <img src="https://skillicons.dev/icons?i=python,js,java,cs,linux,mysql,git,docker" />
 </p>
 
 ---
 
-## 🧩 What I Do
+<!-- ================= ABOUT ================= -->
+
+## 🧩 Focus
 
 ```text
-📄 PEPPOL & eDelivery Integrations
-🏢 ERP Systems & Financial Platforms
+📄 PEPPOL & eDelivery
+🏢 ERP Integrations
 🧾 XML Validation Pipelines
-☁️ Server Deployment & Debugging
-🔧 Production Issue Hunting
+☁️ Cloud Deployments
+🔧 Production Debugging
